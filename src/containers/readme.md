@@ -1,0 +1,1 @@
+存放被connect后的react容器组件，最典型的就是app
